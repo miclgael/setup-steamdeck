@@ -4,9 +4,13 @@
 
 ## [EmuDeck](https://github.com/dragoonDorise/EmuDeck), and [Decky](https://github.com/SteamDeckHomebrew/decky-loader)
 
+![EmuDeck logo](https://github.com/miclgael/setup-steamdeck/assets/4301358/95d05cc5-a1a3-4f6a-aeff-8607fd584092)
+
 EmuDeck is an all-in-one for emulator installation & configuration, bezels, hotkeys, performance fixes and more.
 
 https://www.emudeck.com/
+
+![Decky logo](https://github.com/miclgael/setup-steamdeck/assets/4301358/fe9c8dbd-b0fb-4cf0-a4ee-83ca7312bbbb)
 
 EmuDeck is also an easy way to install a great homebrew framework called Decky - which lets you add all sorts of useful apps and widgets to the 
 
