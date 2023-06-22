@@ -14,7 +14,7 @@ https://decky.xyz/
 
 ## News, media, and guides
 
-### 🔥 Fan The Deck ([YouTube @FanTheDeck](https://www.youtube.com/@FanTheDeck)
+### 🔥 Fan The Deck ([YouTube @FanTheDeck](https://www.youtube.com/@FanTheDeck))
 
 For ongoing 'Deck related news
 
