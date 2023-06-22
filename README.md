@@ -14,6 +14,8 @@ EmuDeck is an all-in-one for emulator installation & configuration, bezels, hotk
 
 https://www.emudeck.com/
 
+<hr>
+
 ### [Decky](https://github.com/SteamDeckHomebrew/decky-loader)
 
 ![Decky logo](https://github.com/miclgael/setup-steamdeck/assets/4301358/fe9c8dbd-b0fb-4cf0-a4ee-83ca7312bbbb)
@@ -22,13 +24,25 @@ EmuDeck is also an easy way to install a great homebrew framework called Decky -
 
 https://decky.xyz/
 
+<hr>
+
 ### [Steam ROM Manager](https://github.com/SteamGridDB/steam-rom-manager)
 
 This tool simply fetches thumbnails and icons for any non-steam library games/apps and adds them to the Steam library (both on Desktop and Gaming modes). It is bundled with the EmuDeck installer.
 
+<hr>
+
 ### [Emulation Station](https://emulationstation.org/)
 
 This is an alternative GUI for launching games, super useful if anything is misbehaving when trying to launch directly from the Steam library.
+
+<hr>
+
+### [AnyDesk](https://anydesk.com/)
+
+This is a free remote desktop app and its available on the app store on SteamOS desktop mode. Makes transferring files around much easier. 
+
+<hr>
 
 ## News, media, and guides
 
