@@ -1,8 +1,12 @@
 # setup-steamdeck
 
+Notes and scripts for setting up a new Steam Deck (Follow at your own risk / benefit)
+
+> 💡 I also have guides for [macOS](https://github.com/miclgael/setup), [Linux](https://github.com/miclgael/setup-linux) and [Windows](https://github.com/miclgael/setup-win)
+
 ## Resources and tools
 
-### [EmuDeck](https://github.com/dragoonDorise/EmuDeck) and [Decky](https://github.com/SteamDeckHomebrew/decky-loader)
+### [EmuDeck](https://github.com/dragoonDorise/EmuDeck)
 
 ![EmuDeck logo](https://github.com/miclgael/setup-steamdeck/assets/4301358/95d05cc5-a1a3-4f6a-aeff-8607fd584092)
 
@@ -10,11 +14,21 @@ EmuDeck is an all-in-one for emulator installation & configuration, bezels, hotk
 
 https://www.emudeck.com/
 
+### [Decky](https://github.com/SteamDeckHomebrew/decky-loader)
+
 ![Decky logo](https://github.com/miclgael/setup-steamdeck/assets/4301358/fe9c8dbd-b0fb-4cf0-a4ee-83ca7312bbbb)
 
 EmuDeck is also an easy way to install a great homebrew framework called Decky - which lets you add all sorts of useful apps and widgets to the 
 
 https://decky.xyz/
+
+### [Steam ROM Manager](https://github.com/SteamGridDB/steam-rom-manager)
+
+This tool simply fetches thumbnails and icons for any non-steam library games/apps and adds them to the Steam library (both on Desktop and Gaming modes). It is bundled with the EmuDeck installer.
+
+### [Emulation Station](https://emulationstation.org/)
+
+This is an alternative GUI for launching games, super useful if anything is misbehaving when trying to launch directly from the Steam library.
 
 ## News, media, and guides
 
@@ -39,5 +53,4 @@ Russ from RGC reviews lots of different retro handhelds and peripherals
 
 ![image](https://github.com/miclgael/setup-steamdeck/assets/4301358/c505b591-21de-4ae7-8c00-c58c07fc5052)
 
-
-My go-to for all gaming on linux news, incl. Steam Deck updates.
+A great go-to for all gaming on linux news, incl. Steam Deck updates.
