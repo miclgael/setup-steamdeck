@@ -20,7 +20,7 @@ https://www.emudeck.com/
 
 ![Decky logo](https://github.com/miclgael/setup-steamdeck/assets/4301358/fe9c8dbd-b0fb-4cf0-a4ee-83ca7312bbbb)
 
-EmuDeck is also an easy way to install a great homebrew framework called Decky - which lets you add all sorts of useful apps and widgets to the 
+EmuDeck is also an easy way to install a great homebrew framework called Decky - which lets you add all sorts of useful apps and widgets to the Deck
 
 https://decky.xyz/
 
